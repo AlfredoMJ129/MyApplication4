@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.amj.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".salchichas_a_la_diabla"></activity>
+        <activity android:name=".rajas_poblanas"></activity>
+        <activity android:name=".asado_de_puerco"></activity>
+        <activity android:name=".pierna_en_salsa_de_pina"></activity>
+        <activity android:name=".pierna_al_horno"></activity>
+
+
+    </application>
+
+</manifest>

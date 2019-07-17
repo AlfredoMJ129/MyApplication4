@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Recetas de la abuela</string>
+    <string name="titulo1">Platillos</string>
+    <string name="titulo11">Salchicas a la diabla</string>
+    <string name="titulo12">Rajas poblanas</string>
+    <string name="titulo13">Asado de puerco</string>
+    <string name="titulo14">Pierna en salsa de piña</string>
+    <string name="titulo15">Pierna al horno</string>
+    <string name="info1">Exquisitas salchichas a la diabla con chile de árbol, es una receta mexicana súper práctica y muy rica. Eso sí, te advertimos que no por nada se llaman a la diabla, ya que son muy picantes, aunque claro que tú puedes modificar la cantidad de picor adaptándolo a tu paladar</string>
+    <string name="info2">Si quieres probar un plato realmente tradicional mexicano no te pierdas esta receta de rajas poblanas con pollo, crema y elote que ponemos a tus disposición. Sigue todos los sencillos pasos y conseguirás en una media horas este rico y sabroso plato tan sencillo y económico.</string>
+    <string name="info3">Una receta para los amantes de la carne directamente de México. El asado de puerco es un plato típico de la cocina de este país, que suele servirse en fiestas y ocasiones especiales pero que también es ideal para la comida del día a día.</string>
+    <string name="info4">En esta receta vamos a realizar una opción ideal para aquellas fiestas navideñas, una deliciosa pierna de cerdo en salsa de piña. Esta receta de pernil es ideal para ocasiones especiales, como las fiestas de Acción de Gracias o Navidad, donde los grandes banquetes son los protagonistas.</string>
+    <string name="info5">Una excelente opción de un plato típico navideño, una deliciosa receta de pierna de cerdo al horno jugosa perfecta para celebrar: Acción de Gracias, Navidad o cualquier otra fiesta o evento importante</string>
+
+    <string name="ingredientes">Ingredientes</string>
+    <string name="ingredientesPlatillo1">1 paquete de salchichas grande\n6 piezas de Chile de árbol\n1 taza de Salsa de tomate\n½ taza de Salsa catsup\n2 dientes de Ajo pequeños</string>
+    <string name="ingredientesPlatillo2">½ pechuga de pollo cocida y deshebrada\n3 chiles poblanos asados y cortados en julianas\n1 lata de granos de elote\n½ cebolla rebanada\n1 media crema\n Aceite\n Sal al gusto</string>
+    <string name="ingredientesPlatillo3">½ kilogramo de Pierna de puerco\n1 taza de Agua (240 mililitros)\n1 botella de Aceite vegetal\n5 unidades de Chiles anchos\n¼ taza de Vinagre blanco\n¼ unidad de cebolla\n1 pizca de Comino\n1 pizca de Tomillo seco molido\n1 pizca de Orégano\n1 unidad de Clavo de olor\n1 pizca de Sal\n1 unidad de Laurel</string>
+    <string name="ingredientesPlatillo4">1 pieza de Pierna de cerdo\n1 unidad de cebolla puerro\n3 unidades de cebolla blanca\n1 cucharadita de pasta de ajo\n2 unidades de Pimiento o pimentón rojo\n200 mililitros de Salsa negra\n2 cucharaditas de Mostaza\n5 latas de cerveza rubia\n4 hojas de Laurel\n3 ramas de Tomillo
+        \n\nPara la salsa de piña\n1 cucharadita de jengibre confitado o fresco\n1 unidad de Piña fresca\n1 pizca de Sal\n1 pizca de Pimienta negra\n1 trozo de Piloncillo, panela o miel\n1 unidad de Pimentón o pimiento rojo</string>
+    <string name="ingredientesPlatillo5">1 pierna de cerdo\n1 cebolla puerro\n3 cebolla blanca\n2 pimiento o pimentones rojos\n2 cucharadas soperas de mostaza\n4 hojas de laurel\n4 ramas de tomillo\n5 latas de cerveza\n200 mililitros de salsa negra\n1 trozo de piloncillo o panela</string>
+
+    <string name="preparacion">Preparación</string>
+
+    <string name="preparacionPlatillo1">Iniciar la preparación de salchichas a la diabla rebanándolas, aproximadamente con 1.5 cm de ancho. Una vez listas, se reservan un momento.
+        \n\nTomar los chiles y el ajo, los coloca en el molcajete, o si no tiene molcajete, en la licuadora, agregando un poquito de agua para molerlos y formar la salsa.
+        \n\nPoner un trozo de mantequilla a un sartén previamente calentada, esperar a que se derrita completamente y añadir las salchichas rebanadas para que comiencen a freírse. Dejar que se frían hasta que tomen un color dorado, moviéndolas constantemente para que no se quemen.
+        \n\nUna vez bien fritas las salchichas les agrega el chile de árbol junto con el ajo que molió e incorpora perfectamente para que todas se cubran con esta salsa picante de la receta mexicana.
+        \n\nAhora tomamos la salsa de tomate y la salsa catsup y se la agregamos a las salchichas, movemos para incorporar muy bien. Dejamos que se sazonen por aproximadamente 10 minutos.
+        \n\n¡LISTO! Servimos las salchichas a la diabla con chile de árbol calientes acompañadas de unas ricas tortillas de maíz y una helada cerveza que nos ayudará a calmar el picor. ¡Buen provecho!
+    </string>
+
+    <string name="preparacionPlatillo2">Freír la cebolla con el aceite en una sartén
+        \n\nDespués añadir las rajas de poblano y los granos de elote.
+        \n\nPor último agregar el pollo, la media crema y sal al gusto.
+        \n\nDejar que se cocine todo el pollo con rajas, elote y crema junto unos minutos y servir recién hecho.
+    </string>
+    <string name="preparacionPlatillo3">Lo primero que haremos es preparar los chiles anchos. Para ello, hierve en suficiente agua y una vez listos, pásalos por agua fría para quitarles la piel.
+        \n\nPara comenzar con la preparación del asado de puerco se debe cortar la carne en cubos, cocer los cubitos de carne en una olla con el agua hasta que esta se evapore.
+        \n\nLuego agregar el aceite y dorar. Mientras tanto, licuar los chiles con el vinagre, la cebolla, las especias (excepto la hoja de laurel) y la sal. Si es necesario, puedes agregar un poco del agua de cocción de los chiles para que la salsa se licue bien.
+        \n\nVierte la salsa sobre la carne dorada e incorporar la hoja de laurel finamente troceada a mano. Revolver bien y dejar hervir.
+        \n\nPrueba el asado de puerco y corrige la sazón si es necesario. Sirve con arroz y frijoles refritos o con una ensalada fresca. También puedes revisar la receta de asado de puerco estilo minero.
+    </string>
+    <string name="preparacionPlatillo4">Para preparar la carne para el marinado, debes retirar el exceso de grasa de la pieza de cerdo.
+        \n\nCon al ayuda de una cuerda vamos a bridar o amarrar la pierna de cerdo. Recuerda que bridar requiere de practica así que no te preocupes si no te queda perfecto, con el tiempo irás perfeccionando. Si tu corte de carne de cerdo tiene hueso no hay necesidad de bridar.
+        \n\nAhora realizaremos el marinado, para ello, retira las venas y semillas del pimiento, corta en trozos y lleva a una licuadora o procesador. Adiciona una lata de cerveza y la cebolla blanca en trozos. Licua o procesa los ingredientes hasta obtener un puré.
+        \n\nDespués añade la cebolla puerro, este ingrediente dará un sabor delicioso a nuestra receta de Navidad.
+        \n\nLleva el cerdo a un molde grande para que puedas marinar durante bastante tiempo en la nevera o refrigerador. Baña con el marinado como se observa en la fotografía.
+        \n\nAdiciona la pasta de ajo, el resto de las cervezas, mostaza, salsa negra y mezcla muy bien todos los ingredientes. El tiempo de marinado es relativo, yo recomiendo marinar entre 24 y 48 horas en la nevera, pues entre más tiempo se marine más penetra el sabor en la carne.
+        \n\nAñade el laurel, tomillo y pimienta negra al gusto.
+        \n\nCubre el molde donde estamos marinando, ahora si debes llevar a refrigerador o nevera para marinar nuestra receta de Navidad.
+        \n\nMientras se marina la pierna de cerdo vamos a realizar la salsa de piña. Para ello, pica en cuadros medianos la piña y el pimiento.
+        \n\nLleva una olla honda a fuego medio y agrega un poquito de aceite de girasol. Saltea la piña y el pimiento o pimentón.
+        \n\nAgrega sal, pimienta negra y pasta de ajo al gusto.
+        \n\nAñade agua hasta cubrir y agrega el jengibre confitado o fresco.
+        \n\nDeja hervir a fuego medio hasta que nuestra salsa de piña se reduzca y el líquido quede como un almíbar. Retira del fuego y reserva. Si deseas puedes licuarla o dejarla tal y como esta. La salsa de piña para carne es salsa agridulce con un toque picante que le da el jengibre, excelente combinación para nuestra carne de cerdo.
+        \n\nEl día de la preparación de la pierna de cerdo, lleva un sartén a fuego medio y adiciona una cucharadita de aceite de girasol.
+        \n\nSella la carne marinada añadiendo una pizca de sal y pimienta al gusto. Realizamos el sellado de nuestra proteína para obtener una preparación jugosa y que no se reseque cuando terminemos la cocción en el horno.
+        \n\nUna vez sellada nuestra pierna de cerdo, colócala en una refractaria resistente al calor.
+        \n\nBaña nuevamente con el marinado.
+        \n\nCubre con el papel aluminio para permitir que nuestra preparación se mantenga jugosa después de la cocción en el horno.
+        \n\nPrecalienta el horno a 250ºC. Recuerda que el tiempo de cocción depende del peso de la carne, el calculo es de 15-20 minutos por libra.
+        \n\nUna vez transcurra el tiempo de cocción y consideres que ya casi está lista, retira la carne con mucho cuidado del horno y añade el piloncillo o panela. Si no consigues este ingrediente reemplaza por miel de abejas o agave, para darle el toque dulce y de brillo.
+        \n\nVuelve a introducir al horno durante unos 15 minutos o hasta que dore nuevamente. Retira del horno nuestra pierna de cerdo en salsa. El líquido que quedo de la preparación en la refractaria puedes colarlo y utilizarlo para realizar alguna salsa o servirlo en la mesa para que los comensales le añadan a la receta para Navidad, pues es un líquido con mucho sabor.
+        \n\nAhora vamos a retirar la cuerda con la que bridamos el cerdo. Luego, ayúdate con un cuchillo eléctrico y corta en tajadas delgadas la pierna de cerdo para Navidad y ya estamos listos para servir.
+        \n\nSirve la carne bañando con la salsa y disfruta. La pierna de cerdo en salsa de piña se puede consumir fría o caliente pues el sabor del marinado es realmente espectacular. Acompaña con una ensalada de col americana o para completar la cena de Navidad, con un pan de jamón venezolano.
+    </string>
+    <string name="preparacionPlatillo5">
+A continuación, vamos a preparar la carne para asar en el horno, para ello retira los exceso de grasa que contenga nuestra pata de cerdo.
+        \n\nComo la pieza que yo compré no contiene hueso, voy a bridarla o amarrarla con una pita o hilo de cocina para darle forma en la cocción. Si es tu caso, trata de bridar lo más fuerte posible para que la carne tome forma y la pierna de chancho al horno no se deshaga.
+        \n\nPara realizar el marinado de nuestra pata de cerdo deshuesada al horno, tritura en un procesador de alimentos los pimientos sin semillas, la cebolla blanca y una cerveza. Procesa muy bien los ingredientes.
+        \n\nAñade la cebolla puerro y procesa nuevamente. Si deseas puedes añadir un poco más de cerveza para que sea más fácil procesar todos los ingredientes.
+        \n\nEn un molde para marinar coloca la pierna de puerco y cubre con la marinada de nuestra receta para Navidad. Añade el resto de las cervezas.
+        \n\nAñade la mostaza, un poco de pasta de ajo y la salsa negra (maggi o inglesa) por encima de la pierna de chancho y esparce bien.
+        \n\nAñade ahora las hojas de laurel y tomillo.
+        \n\napa el molde y deja marinando la pierna de cerdo para Navidad al menos unas 24 o 48 horas en la nevera o refrigerador. De esta manera, el marinado va a penetrar muy bien en la carne.
+        \n\nEl día de la preparación, lleva un sartén a fuego medio y añade una cucharadita de aceite de girasol.
+        \n\nSella la pierna de cerdo marinada, para ello, cocina hasta que se dore toda la superficie de la carne. Añade sal antes de sellar y, en caso de que tu pieza de pernil sea muy grande, puedes omitir este paso.
+        \n\nUna vez sellada la pata de cerdo, colócala en una refractaria, fuente o bandeja resistente al calor.
+        \n\nBaña la carne nuevamente con el marinado.
+        \n\nCubre con papel aluminio para que la carne de cerdo no quede seca y precalienta el horno a 250 ºC.
+        \n\nUna vez caliente, coloca la pierna de cerdo al horno y cocina el tiempo que sea necesario. El calculo es que por cada libra de carne el tiempo al horno es de entre 15 y 20 minutos. Esta pata de cerdo deshuesada es de 6 libras, por lo que estará en el horno alrededor de unos 90 minutos.
+        \n\nUna vez transcurra el tiempo necesario, retira con mucho cuidado el papel de aluminio y ralla encima la panela o piloncillo. Esto le dará brillo y un color dorado característico a la pierna de puerco al horno.
+        \n\nA continuación, lleva nuevamente la pierna de chancho al horno durante unos 10 a 15 minutos más aproximadamente hasta que se termine de dorar.
+        \n\nRetira la cuerda con la que bridamos la pierna de puerco. Si quieres, puedes hacer una salsa con el líquido que sobró del marinado, simplemente pasándolo por el colador y desechando los restos.
+        \n\nCon la ayuda de un cuchillo eléctrico, corta tajadas no muy gruesas de la pierna de cerdo al horno jugosa y sirve con una ensalada de gallina o patatas asadas por ejemplo. Si deseas más recetas de Navidad y/o tienes algún comentario o inquietud, escríbenos.
+    </string>
+
+    <string name="flecha">Regresar</string>
+
+
+</resources>
